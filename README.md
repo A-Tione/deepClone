@@ -1,1 +1,1 @@
-npm test
+运行测试：npm test
